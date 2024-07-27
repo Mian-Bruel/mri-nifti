@@ -21,7 +21,7 @@ Segmentation performed manually. Additional two .xlsx files with patient meta in
 
 ### Dataset 2
 Direct access: https://lit.fe.uni-lj.si/en/research/resources/3D-MR-MS/ 
-30 patients with 4 different MRI sequences, with one ground truth manual segmentation for each patient.
+30 patients with 4 different MRI sequences, with one ground truth semi-automated segmentation for each patient.
 - T1-weighted
 - constrast enhanced T1-weighted
 - T2-weighted
